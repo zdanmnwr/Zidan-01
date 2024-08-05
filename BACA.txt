@@ -1,6 +1,11 @@
 TUGAS ZIDAN AHMAD MUNAWAR 
 XI RPL B
 SMK TI PEMBANGUNAN
+
+TEMA : WEB CAFE 
+BOOTSTRAP V 5.3.x
+
+
 - Memakai Bootstrap untuk responsive (25 Poin)                                      DONE 
 - Dalam HTML terdapat coment pembuat kode (25) *ctt: nilai individu                 comment banyak di html <!--Navbar-->
 - Memakai Git sebagai tempat menyimpan projek (25), GDrive (20)                     GITHUB DONE
@@ -8,3 +13,5 @@ SMK TI PEMBANGUNAN
 
 
 100 ya pakk hehe:)
+
+salam titik koma
